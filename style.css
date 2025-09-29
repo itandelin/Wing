@@ -4213,7 +4213,7 @@ body .layout .article-subtitle ul li i {
   margin-right: 2px;
 }
 body .layout .article-content {
-  line-height: 1.4;
+  line-height: 1.8;
 }
 body .layout .article-content :is(h1, h2, h3, h4, h5, h6) {
   width: auto;
